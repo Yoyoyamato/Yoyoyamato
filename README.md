@@ -18,6 +18,6 @@ MSBA Candidate @ USC Marshall | Business professional with expertise in Marketin
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoyoyamato&show_icons=true)  
 
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="[https://github-readme-stats.vercel.app/api?username=hussaino03](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoyoyamato)&show_icons=true&theme=radical" />
- <img class="img" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03](https://github-readme-stats.vercel.app/api?username=Yoyoyamato)&theme=radical&layout=compact" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoyoyamato&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=Yoyoyamato&theme=radical&layout=compact" />
 </div>
