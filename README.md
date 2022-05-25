@@ -13,9 +13,6 @@ MSBA Candidate @ USC Marshall | Business professional with expertise in Marketin
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Yoyoyamato)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/yamato-tadokoro-19b11121a//)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoyoyamato)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoyoyamato&show_icons=true)  
 
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoyoyamato&show_icons=true&theme=radical" />
