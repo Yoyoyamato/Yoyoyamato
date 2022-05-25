@@ -1,4 +1,4 @@
-# My name is Yamato Tadokoro
+# Welcome to my Github! My name is Yamato Tadokoro
 ## Passionate for Marketing and Data Science
 
 ![Passionate for Marketing and Data Science](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
