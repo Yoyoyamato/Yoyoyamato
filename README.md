@@ -5,7 +5,7 @@
 
 MSBA Candidate @ USC Marshall | Business professional with expertise in Marketing and Data Science | Passion in problem-solving and creating innovative experiences through analytics | Knowledgeable in ML modeling
 
-Skills: Python / SQL / Statistics / Communication
+## Skills: Python / SQL / Statistics / Communication
 
 - 🔭 I’m currently working on ML modeling for predictive analysis 
 - 📫 How to reach me: https://www.linkedin.com/in/yamato-tadokoro-19b11121a/ 
