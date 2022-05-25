@@ -1,9 +1,11 @@
 # Welcome to my Github! My name is Yamato Tadokoro
-## Passionate for Marketing and Data Science
-
-![Passionate for Marketing and Data Science](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 MSBA Candidate @ USC Marshall | Business professional with expertise in Marketing and Data Science | Passion in problem-solving and creating innovative experiences through analytics | Knowledgeable in ML modeling
+
+## Passionate for Marketing and Data Science
+
+<!-- ![Passionate for Marketing and Data Science](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
+
 
 ## Skills: Python (3+ years) / SQL (3+ years) /  MongoDB (1+ years) / Statistics / Communication
 
